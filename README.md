@@ -3,24 +3,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00FF00&center=true&vCenter=true&width=600&lines=ACCESS+GRANTED;Welcome+to+Felipe's+Terminal;Always+Learning+%26+Building..." alt="typing effect" />
 </p>
 
-
 </br>
 
 ---
 
-</br>
-
-
 <!-- ABOUT -->
 ## 👨‍💻 About Me  
-
 
 - 📚 Currently studying **Information Systems**  
 - 🏢 Office Assistant (Tax sector) at **LF Contabilidade** — since Feb/2025  
 - 🌱 Learning **Front-End**, **Cybersecurity**, and **Systems Architecture**  
 - 🔍 Exploring paths and building experience step by step  
-
-</br>
 
 ---
 
@@ -51,7 +44,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FelipeWal&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
-
 
 ---
 
@@ -88,7 +80,6 @@
   <b>[ Coming Soon... Stay tuned ]</b><br>
   <i>Projects will be unlocked here in the future.</i>
 </p>
-</br>
 
 ---
 
