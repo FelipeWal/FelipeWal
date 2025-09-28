@@ -4,28 +4,23 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00FF00&center=true&vCenter=true&width=600&lines=ACCESS+GRANTED;Welcome+to+Felipe's+Terminal;Only+True+Devs+Go+Beyond..." alt="typing effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00FF00&center=true&vCenter=true&width=600&lines=ACCESS+GRANTED;Welcome+to+Felipe's+Terminal;Always+Learning+%26+Building..." alt="typing effect" />
 </p>
 
 ---
 
 <!-- ABOUT -->
-## 👨‍💻 About Me
-
-<p align="center">
-  <b>Welcome to my terminal.</b><br>
-  <i>Short bio — impact statements only.</i>
-</p>
+## 👨‍💻 About Me  
 
 - 📚 Currently studying **Information Systems**  
 - 🏢 Office Assistant (Tax sector) at **LF Contabilidade** — since Feb/2025  
 - 🌱 Learning **Front-End**, **Cybersecurity**, and **Systems Architecture**  
-- 🔍 Exploring paths; building, testing and iterating
+- 🔍 Exploring paths and building experience step by step  
 
 ---
 
 <!-- SKILLS -->
-## 🛠 Skills in Progress
+## 🛠 Skills in Progress  
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-in%20progress-orange?logo=html5&style=for-the-badge" alt="HTML badge" />
@@ -34,39 +29,20 @@
   <img src="https://img.shields.io/badge/Java-in%20progress-red?logo=java&style=for-the-badge" alt="Java badge" />
 </p>
 
-<p align="center">
-  <small>— Learning: not yet professional. Progress badges show status.</small>
-</p>
-
 ---
 
-<!-- PORTFOLIO MINI-GAME -->
-## 🔐 Unlock My Portfolio
+<!-- PORTFOLIO PLACEHOLDER -->
+## 🔐 Portfolio  
 
 <p align="center">
-  <b>Only true devs unlock the vault.</b><br>
-  <i>Hint: The code is hidden in plain sight inside this README.</i>
+  <b>[ Coming Soon... Stay tuned ]</b><br>
+  <i>Projects will be unlocked here in the future.</i>
 </p>
-
-<details>
-  <summary>💾 Enter Password</summary>
-
-  <!-- This is the interactive-looking element. Replace link with real portfolio when ready. -->
-  <p align="center">
-    ✅ If you have the password, open the vault:  
-    <a href="https://felipe-portfolio-link.com"><b>🔓 Open Portfolio</b></a>
-  </p>
-
-  <!-- Hidden hint example (visible if user inspects the source) -->
-  <p align="center">
-    <sub style="color:#0b0b0b">hint: dev2025</sub>
-  </p>
-</details>
 
 ---
 
 <!-- GITHUB STATS -->
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FelipeWal&show_icons=true&theme=radical" alt="GitHub stats" />
@@ -75,18 +51,8 @@
 
 ---
 
-<!-- PERSONAL SECTION -->
-## 🥋 Outside Coding
-
-<p align="center">
-  <b>Jiu-jitsu & Gym</b><br>
-  <small>Training keeps me focused — discipline in life, code and training.</small>
-</p>
-
----
-
 <!-- CONTACT -->
-## 📡 Connect with Me
+## 📡 Connect with Me  
 
 <p align="center">
   <a href="mailto:lipewaldrigues@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="email" /></a>
