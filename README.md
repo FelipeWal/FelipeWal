@@ -48,7 +48,7 @@
 <!-- CONTACT -->
 ## 📫 Connect with Me  
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to:lipewaldrigues@gmail.com&su=Portfolio%20Inquiry&body=Hello%20Lipe,%0A%0AI%20would%20like%20to%20discuss%20opportunities%20regarding%20your%20portfolio.">📧 Email me (Gmail)</a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to:lipewaldrigues@gmail.com">📧 Email me (Gmail)</a>
   <a href="https://www.linkedin.com/in/lipe-waldrigues-7899472b2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/lipe.waldrigues"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
 </p>
