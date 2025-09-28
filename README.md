@@ -86,7 +86,6 @@
 
 ---
 
-</br>
 <!-- PORTFOLIO PLACEHOLDER -->
 ## 🔐 Portfolio  
 
@@ -95,8 +94,9 @@
   <i>Projects will be unlocked here in the future.</i>
 </p>
 </br>
+
 ---
-</br>
+
 <!-- FOOTER -->
 <p align="center">
   <i>System shutting down... See you soon.</i>
