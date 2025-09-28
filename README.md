@@ -3,15 +3,6 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeWal&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeWal&layout=compact&theme=radical" alt="Top langs" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00FF00&center=true&vCenter=true&width=600&lines=ACCESS+GRANTED;Welcome+to+Felipe's+Terminal;Always+Learning+%26+Building..." alt="typing effect" />
-</p>
-
 ---
 
 <!-- ABOUT -->
@@ -47,8 +38,18 @@
 ---
 
 <!-- GITHUB STATS -->
-## 📊 GitHub Analytics  
 
+## 📊 GitHub Analytics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeWal&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeWal&layout=compact&theme=radical" alt="Top langs" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00FF00&center=true&vCenter=true&width=600&lines=ACCESS+GRANTED;Welcome+to+Felipe's+Terminal;Always+Learning+%26+Building..." alt="typing effect" />
+</p>
+
+---
 
 
 ---
