@@ -46,6 +46,9 @@
 
 ## 📡 Connect with Me  
 
+</br>
+</br>
+
 <p align="center">
   <a href="mailto:lipewaldrigues@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="email" /></a>
   <a href="https://www.linkedin.com/in/lipe-waldrigues-7899472b2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin" /></a>
@@ -53,6 +56,7 @@
   <a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/Resume-PDF-blue?logo=adobeacrobatreader&style=for-the-badge" alt="resume" /></a>
 </p>
 
+</br>
 </br>
 
 <p align="center">
