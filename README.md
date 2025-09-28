@@ -31,6 +31,16 @@
 
 ---
 
+<!-- GITHUB STATS -->
+
+## 📊 GitHub Analytics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeWal&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeWal&layout=compact&theme=radical" alt="Top langs" />
+</p>
+
+---
+
 <!-- CONTACT -->
 ## 📡 Connect with Me  
 
@@ -39,16 +49,6 @@
   <a href="https://www.linkedin.com/in/lipe-waldrigues-7899472b2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin" /></a>
   <a href="https://instagram.com/lipe.waldrigues"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="instagram" /></a>
   <a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/Resume-PDF-blue?logo=adobeacrobatreader&style=for-the-badge" alt="resume" /></a>
-</p>
-
----
-
-<!-- GITHUB STATS -->
-
-## 📊 GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeWal&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeWal&layout=compact&theme=radical" alt="Top langs" />
 </p>
 
 ---
