@@ -1,17 +1,25 @@
+</br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00FF00&center=true&vCenter=true&width=600&lines=ACCESS+GRANTED;Welcome+to+Felipe's+Terminal;Always+Learning+%26+Building..." alt="typing effect" />
 </p>
 
+
+</br>
 ---
+</br>
+
 
 <!-- ABOUT -->
 ## 👨‍💻 About Me  
+
+</br>
 
 - 📚 Currently studying **Information Systems**  
 - 🏢 Office Assistant (Tax sector) at **LF Contabilidade** — since Feb/2025  
 - 🌱 Learning **Front-End**, **Cybersecurity**, and **Systems Architecture**  
 - 🔍 Exploring paths and building experience step by step  
 
+</br>
 ---
 
 <!-- HACKER BANNER -->
@@ -19,7 +27,9 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+</br>
 ---
+</br>
 
 <!-- SKILLS -->
 ## 🛠 Skills in Progress  
@@ -31,7 +41,9 @@
   <img src="https://img.shields.io/badge/Java-in%20progress-red?logo=java&style=for-the-badge" alt="Java badge" />
 </p>
 
+</br>
 ---
+</br>
 
 <!-- GITHUB STATS -->
 
@@ -40,13 +52,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=FelipeWal&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
+</br>
 ---
+</br>
 
 <!-- CONTACT -->
 
 ## 📡 Connect with Me  
 
-</br>
 </br>
 
 <p align="center">
@@ -63,8 +76,10 @@
  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="800">
 </p>
 
+</br>
+</br>
 ---
-
+</br>
 <!-- PORTFOLIO PLACEHOLDER -->
 ## 🔐 Portfolio  
 
@@ -72,9 +87,9 @@
   <b>[ Coming Soon... Stay tuned ]</b><br>
   <i>Projects will be unlocked here in the future.</i>
 </p>
-
+</br>
 ---
-
+</br>
 <!-- FOOTER -->
 <p align="center">
   <i>System shutting down... See you soon.</i>
