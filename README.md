@@ -1,6 +1,11 @@
 <!-- HACKER BANNER -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeWal&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeWal&layout=compact&theme=radical" alt="Top langs" />
 </p>
 
 <p align="center">
@@ -44,10 +49,7 @@
 <!-- GITHUB STATS -->
 ## 📊 GitHub Analytics  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeWal&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeWal&layout=compact&theme=radical" alt="Top langs" />
-</p>
+
 
 ---
 
