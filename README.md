@@ -29,8 +29,6 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-</br>
-
 ---
 
 
@@ -44,8 +42,6 @@
   <img src="https://img.shields.io/badge/Java-in%20progress-red?logo=java&style=for-the-badge" alt="Java badge" />
 </p>
 
-</br>
-
 ---
 
 
@@ -56,7 +52,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=FelipeWal&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
-</br>
 
 ---
 
@@ -65,6 +60,7 @@
 
 ## 📡 Connect with Me  
 
+</br>
 </br>
 
 <p align="center">
@@ -81,7 +77,6 @@
  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="800">
 </p>
 
-</br>
 </br>
 
 ---
