@@ -1,8 +1,3 @@
-<!-- HACKER BANNER -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00FF00&center=true&vCenter=true&width=600&lines=ACCESS+GRANTED;Welcome+to+Felipe's+Terminal;Always+Learning+%26+Building..." alt="typing effect" />
 </p>
@@ -16,6 +11,13 @@
 - 🏢 Office Assistant (Tax sector) at **LF Contabilidade** — since Feb/2025  
 - 🌱 Learning **Front-End**, **Cybersecurity**, and **Systems Architecture**  
 - 🔍 Exploring paths and building experience step by step  
+
+---
+
+<!-- HACKER BANNER -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
