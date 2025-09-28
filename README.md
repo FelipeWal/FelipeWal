@@ -5,7 +5,9 @@
 
 
 </br>
+
 ---
+
 </br>
 
 
@@ -20,6 +22,7 @@
 - 🔍 Exploring paths and building experience step by step  
 
 </br>
+
 ---
 
 <!-- HACKER BANNER -->
@@ -28,7 +31,9 @@
 </div>
 
 </br>
+
 ---
+
 </br>
 
 <!-- SKILLS -->
@@ -42,7 +47,9 @@
 </p>
 
 </br>
+
 ---
+
 </br>
 
 <!-- GITHUB STATS -->
@@ -53,7 +60,9 @@
 </p>
 
 </br>
+
 ---
+
 </br>
 
 <!-- CONTACT -->
@@ -78,7 +87,9 @@
 
 </br>
 </br>
+
 ---
+
 </br>
 <!-- PORTFOLIO PLACEHOLDER -->
 ## 🔐 Portfolio  
